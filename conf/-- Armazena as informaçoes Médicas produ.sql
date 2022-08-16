@@ -1,0 +1,2 @@
+-- Armazena as informaçoes Médicas produzidas pelos equipamentos;
+-- Fornece os serviços de distribuição de imagem para o corpo clínico (Médicos, Técnicos de Radiologia, Enferemeiros, Médicos Residentes, etc.)
